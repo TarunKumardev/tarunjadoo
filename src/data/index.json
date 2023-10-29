@@ -1,0 +1,108 @@
+[
+    {
+      "productname": "Widget X",
+      "brand": "ABC Corp",
+      "price": 29.99,
+      "quantity": 100,
+      "total": 2999.00
+    },
+    {
+      "productname": "Gizmo Y",
+      "brand": "XYZ Inc",
+      "price": 49.99,
+      "quantity": 75,
+      "total": 3749.25
+    },
+    {
+      "productname": "Super Gizmo",
+      "brand": "GizmoTech",
+      "price": 99.99,
+      "quantity": 50,
+      "total": 4999.50
+    },
+    {
+      "productname": "Mega Widget",
+      "brand": "MegaCorp",
+      "price": 39.99,
+      "quantity": 120,
+      "total": 4798.80
+    },
+    {
+      "productname": "Tech Gadget",
+      "brand": "TechCo",
+      "price": 59.99,
+      "quantity": 60,
+      "total": 3599.40
+    },
+    {
+      "productname": "Smartphone",
+      "brand": "PhoneMasters",
+      "price": 399.99,
+      "quantity": 25,
+      "total": 9999.75
+    },
+    {
+      "productname": "Laptop Pro",
+      "brand": "LaptopMakers",
+      "price": 799.99,
+      "quantity": 30,
+      "total": 23999.70
+    },
+    {
+      "productname": "Camera Kit",
+      "brand": "PhotoTech",
+      "price": 149.99,
+      "quantity": 40,
+      "total": 5999.60
+    },
+    {
+      "productname": "Headphones",
+      "brand": "AudioWonders",
+      "price": 49.99,
+      "quantity": 80,
+      "total": 3999.20
+    },
+    {
+      "productname": "Smartwatch",
+      "brand": "WristTech",
+      "price": 79.99,
+      "quantity": 35,
+      "total": 2799.65
+    },
+    {
+      "productname": "Tablet Pro",
+      "brand": "TabletMakers",
+      "price": 299.99,
+      "quantity": 20,
+      "total": 5999.80
+    },
+    {
+      "productname": "Speaker System",
+      "brand": "SoundPro",
+      "price": 149.99,
+      "quantity": 45,
+      "total": 6749.55
+    },
+    {
+      "productname": "Fitness Tracker",
+      "brand": "FitTech",
+      "price": 29.99,
+      "quantity": 70,
+      "total": 2099.30
+    },
+    {
+      "productname": "Wireless Router",
+      "brand": "NetConnect",
+      "price": 69.99,
+      "quantity": 55,
+      "total": 3849.45
+    },
+    {
+      "productname": "External Hard Drive",
+      "brand": "DataSafe",
+      "price": 89.99,
+      "quantity": 25,
+      "total": 2249.75
+    }
+  ]
+  
